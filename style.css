@@ -212,10 +212,12 @@ p {
 
 
 #sui img {
-
+  
+  width: 50%;
+  height: auto;
   margin-top: 60px;
   border-radius: 20px;
-
+  
 }
 
 
@@ -241,6 +243,8 @@ p {
   padding: 10px;
 
 }
+
+
 
 
 @media (max-width: 768px) {
@@ -275,13 +279,28 @@ p {
   
  
   h2 {
-    font-size: 28px;
-    padding-left: 20px;
+
+    font-size: 26px;
+    padding-left: 18px;
+
   }
 
-  
+
   p {
-    padding-left: 20px;
-    font-size: 15px;
+
+    padding-left: 18px;
+    font-size: 13px;
+
   }
+
+
+  #shagansi .shagansi .box img,
+  #sui img {
+
+    width: 80%;
+    margin-top: 30px;
+    border-radius: 15px;
+
+  }
+
 }
