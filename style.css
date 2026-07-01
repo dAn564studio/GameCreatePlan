@@ -1,0 +1,243 @@
+html {
+
+  scroll-behavior: smooth;
+
+}
+
+
+body {
+  
+  color: #333333;
+  text-align: left;
+  margin: 0;
+
+}
+
+
+header {
+
+  background-color: #333333ff;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+
+}
+
+
+header img {
+
+  height: 30px;
+
+}
+
+
+header ul {
+
+  margin: 0;
+  display: flex;
+
+}
+
+
+header ul li {
+
+  padding: 0 20px;
+
+}
+
+
+header ul li a {
+
+  color: #FFFFFF;
+  font-size: 20px;
+  text-decoration: none;
+
+}
+
+
+header ul li a:hover {
+
+  color: #7bc3d1;
+
+}
+
+
+h1 {
+  color: #151515;
+  font-size: 55px;
+  letter-spacing: 5px;
+  text-align: center;
+  margin: 0;
+
+}
+
+
+h2 {
+
+  margin: 0;
+  padding-left: 40px;
+  font-size: 35px;
+
+}
+
+
+#top {
+
+  background-image: url(image/かわいいランドルト環.png);
+  background-size: cover;
+  padding: 200px 0;
+  margin-bottom: 20px;
+
+}
+
+
+p {
+
+  padding-left: 40px;
+  margin: 0;
+
+}
+
+
+#stage {
+
+  color: aliceblue;
+  background-image: url(image/保健室.png);
+  background-size: cover;
+  padding: 100px 0;
+  margin-bottom: 20px;
+
+}
+
+
+#stage p a {
+
+  color: aliceblue;
+
+}
+
+
+#stage p a:hover {
+
+  color: #7bc3d1;
+
+}
+
+
+#rule {
+  
+  color: aliceblue;
+  background-image: url(image/かっこいいランドルト環.png);
+  background-size: cover;
+  padding: 100px 0;
+  margin-bottom: 20px;
+
+}
+
+
+#VR {
+
+  color: #000000;
+  background-image: url(image/BeatSaber.png);
+  background-size: cover;
+  padding: 127px 0;
+  margin-bottom: 20px;
+
+}
+
+
+#howtocreate {
+  
+  color: aliceblue;
+  background-image: url(image/床.png);
+  background-size: cover;
+  padding: 100px 0;
+
+}
+
+
+#direction {
+
+  color: aliceblue;
+  background-image: url(image/ライブ.png);
+  background-size: cover;
+  padding: 100px 0;
+  margin-bottom: 20px;
+
+}
+
+
+#shagansi {
+
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+  background-color: #A9C0A6;
+  color: #f5e9db;
+
+}
+
+
+#shagansi .shagansi .box {
+
+  padding-bottom: 30px;
+
+}
+
+
+#shagansi .shagansi {
+
+  justify-content: center;
+
+}
+
+
+#shagansi .shagansi .box img {
+
+  width: 50%;
+  height: auto;
+  margin-top: 60px;
+  border-radius: 20px;
+
+}
+
+
+#sui {
+
+  background-color: #F5EDE3;
+  color: #707862;
+  padding-bottom: 30px;
+
+}
+
+
+#sui img {
+
+  margin-top: 60px;
+  border-radius: 20px;
+
+}
+
+
+#box h3 {
+
+  margin-top: 30px;
+  
+}
+
+
+#h3 {
+
+  text-align: center;
+
+}
+
+
+#thanks {
+
+  text-align: center;
+  color: aliceblue;
+  background-color: #333333ff;
+  padding: 10px;
+
+}
