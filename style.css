@@ -254,7 +254,7 @@ p {
   /* 画面の横幅が768px以下（スマホなど）のときにだけ効く設定 */
 
   h1 {
-    font-size: 35px; 
+    font-size: 34px; 
     letter-spacing: 2px;
   }
 
